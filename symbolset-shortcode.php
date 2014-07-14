@@ -31,8 +31,8 @@ if ( ! defined( 'ABSPATH' ) ) exit;
  *
  * Usage:
  *
- * [icon]keyword[icon]
- * or [icon class="custom-class"]keyword[icon]
+ * [icon]keyword[/icon]
+ * or [icon class="custom-class"]keyword[/icon]
 */
 function symbolset_shortcode( $atts, $content ) {
     $a = shortcode_atts( array('keyword' => '', 'class' => ''), $atts );

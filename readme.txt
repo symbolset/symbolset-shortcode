@@ -11,11 +11,11 @@ Creates an [icon] shortcode tailored for use with Symbolset.com icon sets.
 
 Usage:
 
-[icon]keyword[icon]
+[icon]keyword[/icon]
 
 or
 
-[icon class="custom-class"]keyword[icon]
+[icon class="custom-class"]keyword[/icon]
 
 == Changelog ==
 
