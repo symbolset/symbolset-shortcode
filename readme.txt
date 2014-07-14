@@ -7,7 +7,7 @@ Stable tag: trunk
 
 == Description ==
 
-Creates an [icon] shortcode.
+Creates an [icon] shortcode tailored for use with Symbolset.com icon sets.
 
 Usage:
 

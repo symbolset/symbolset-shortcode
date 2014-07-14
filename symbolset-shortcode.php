@@ -2,7 +2,7 @@
 /*
 Plugin Name: Symbolset Shortcode
 Plugin URI: http://wordpress.org/extend/plugins/symbolset-shortcode
-Description: Adds an [icon] shortcode for inserting a Symbolset icon into your content.
+Description: Creates an [icon] shortcode tailored for use with Symbolset.com icon sets.
 Version: 1.0
 Author: Symbolset
 Author URI: http://symbolset.com
